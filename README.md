@@ -12,11 +12,11 @@ Cambie el nombre de los archivos de Telegram con soporte permanente de miniatura
 
 
 ### ¡Puede tocar el botón Implementar en Heroku a continuación para implementar directamente en Heroku!
-[![Implementar](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AlphaEliasPY/Rename-file-Bot)
+[![Implementar](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/josyam01/rename-file-bot)
 
 ### Implementa el bot en tu vps
 ```sh
-git clone https://github.com/AlphaEliasPY/Rename-file-Bot
+git clone https://github.com/josyam01/rename-file-bot
 cd Rename-file-Bot
 virtualenv -p python3 VENV
 . ./VENV/bin/activate
