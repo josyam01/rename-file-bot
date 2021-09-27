@@ -14,7 +14,7 @@ Escriba /help para más información."""
     DEL_THUMB = "Miniatura borrada con éxito 🤦🏻‍♂️"
     NO_THUMB = "No se encontraron miniaturas personalizadas 🔎"
     SAVED_RECVD_DOC_FILE = "<b>Archivo descargado correctamente 😎</b>"
-    CUSTOM_CAPTION_UL_FILE = "Felicidades tu archivo a sido renombrado, @RenameFileVJosyam01_Bot ❤️"
+    CUSTOM_CAPTION_UL_FILE = "🥳🎉Felicidades🎉🥳 tu archivo a sido renombrado, @RenameFileVJosyam01_Bot ❤️"
     HELP_USER = """<b>El modo de uso del bot es el siguiente 🤓:</b>
     
 🔹1. Envíe una foto para usarla como miniatura personalizada (opcional).
