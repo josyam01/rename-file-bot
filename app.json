@@ -10,9 +10,9 @@
     "source",
     "Rename"
   ],
-  "success_url": "https://github.com/AlphaEliasPY/Rename-file-Bot",
-  "website": "https://github.com/AlphaEliasPY/Rename-file-Bot",
-  "repository": "https://github.com/AlphaEliasPY/Rename-file-Bot",
+  "success_url": "https://github.com/josyam01/rename-file-bot",
+  "website": "https://github.com/josyam01/rename-file-bot",
+  "repository": "https://github.com/josyam01/rename-file-bot",
   "env": {
     "WEBHOOK": {
       "description": "Establecer esto en ANYTHING, habilitará webhooks cuando esté en modo env (no toques nada aquí si no sabes para qué sirve).",
